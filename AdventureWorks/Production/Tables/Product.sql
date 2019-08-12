@@ -19,6 +19,7 @@
     [Style]                 NCHAR (2)        NULL,
     [ProductSubcategoryID]  INT              NULL,
     [ProductModelID]        INT              NULL,
+	[DateAdded]             DATETIME         NOT NULL,
     [SellStartDate]         DATETIME         NOT NULL,
     [SellEndDate]           DATETIME         NULL,
     [DiscontinuedDate]      DATETIME         NULL,

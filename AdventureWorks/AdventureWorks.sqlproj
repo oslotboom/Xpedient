@@ -284,5 +284,6 @@
     <Build Include="Sales\XMLSchemaCollections\StoreSurveySchemaCollection.sql" />
     <Build Include="Security\Permissions.sql" />
     <Build Include="ExtendedProperties.sql" />
+    <Build Include="Purchasing\Tables\ShipperRating.sql" />
   </ItemGroup>
 </Project>
